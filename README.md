@@ -3,3 +3,5 @@ In this NLP (Natural Language Processing) project, we leverage the power of Dist
 
 ### Turkish:
 Bu NLP (Doğal Dil İşleme) projesinde, felaketlerle ilgili tweet'leri sınıflandırmak ve analiz etmek için BERT (Transformatörlerden Çift Yönlü Kodlayıcı Gösterimleri) modelinin damıtılmış bir versiyonu olan DistilBERT'in gücünden yararlanıyoruz. Amaç, tweet'leri afetle ilgili olup olmadığını doğru bir şekilde tanımlayabilen ve kategorize edebilen bir model oluşturmaktır. Bu proje, gerçek zamanlı afet izleme ve müdahale çalışmaları açısından değerlidir.
+
+**Kaggle Link=** https://www.kaggle.com/competitions/nlp-getting-started
